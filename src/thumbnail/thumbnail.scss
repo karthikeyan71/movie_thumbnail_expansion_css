@@ -1,0 +1,34 @@
+.movie_blocks {
+  height: 200px;
+  width: 100%;
+  bordeR: 1px solid grey;
+}
+
+.normal_blocks {
+  position: static;
+  margin: 5px 0;
+}
+
+.upper_level {
+  position: relative;
+}
+
+.active_movie_blocks {
+  height: 500px;
+}
+
+.inside_extended_block {
+  border: 1px solid red;
+  height: 100%;
+  width: 100%;
+}
+
+.extended_block {
+  position: absolute;
+  margin-top: 10px;
+  width: 100%;
+  height: 290px;
+  left: 0;
+  padding: 5px 15px;
+  box-sizing: border-box;
+}

@@ -1,4 +1,4 @@
-# Chess-Game
+# Movie Thumbnail
 
 Install the applicaiton dependecies by using * npm i *
 
